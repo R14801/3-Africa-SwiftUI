@@ -1,5 +1,5 @@
 # 3. Africa (SwiftUI)
-A UI Showcase app that displays information on African Animals, created using SwiftUI
+An UI Showcase app that displays information on African Animals, created using SwiftUI
 
 Notable Skills: Table Layouts, Lists, Video Playback, Map Integration and Map Pins.
 
